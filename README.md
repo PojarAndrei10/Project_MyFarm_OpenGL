@@ -1,0 +1,3 @@
+# OpenGL Application that integrates a scene created in Blender
+The proposed project is an OpenGL application that integrates a scene I created in Blender. The goal of this application is to provide an interactive user experience in a three-dimensional environment, to help us understand how the computer processes a scene of objects and to use various 3D libraries and libraries such as OpenGL, GLFW or GLM. 
+    My scene shows a farm in a rural environment where many objects specific to this theme appear. The user of the application can view this scene, walk through it using the keyboard or mouse and observe and control various implemented animations.
