@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\andre\Documents\OpenGLLibs\include\GLFW\glfw3.h(123,1): message : see previous definition of 'APIENTRY'
+C:\Users\andre\Documents\PG\ProiectPGfinal\Proiect\Proiect\main.cpp(89,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\Documents\PG\ProiectPGfinal\Proiect\Proiect\main.cpp(207,48): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\PG\ProiectPGfinal\Proiect\Proiect\main.cpp(213,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\PG\ProiectPGfinal\Proiect\Proiect\main.cpp(219,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\PG\ProiectPGfinal\Proiect\Proiect\main.cpp(225,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\PG\ProiectPGfinal\Proiect\Proiect\main.cpp(298,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\PG\ProiectPGfinal\Proiect\Proiect\main.cpp(307,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\PG\ProiectPGfinal\Proiect\Proiect\main.cpp(420,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Documents\PG\ProiectPGfinal\Proiect\Proiect\main.cpp(510,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\PG\ProiectPGfinal\Proiect\Proiect\main.cpp(515,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\PG\ProiectPGfinal\Proiect\Proiect\main.cpp(533,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Documents\PG\ProiectPGfinal\Proiect\Proiect\main.cpp(635,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\andre\Documents\PG\ProiectPGfinal\Proiect\Proiect\main.cpp(642,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\andre\Documents\PG\ProiectPGfinal\Proiect\Proiect\main.cpp(658,27): warning C4305: '+=': truncation from 'double' to 'float'
+  Proiect.vcxproj -> C:\Users\andre\Documents\PG\ProiectPGfinal\Proiect\x64\Debug\Proiect.exe
